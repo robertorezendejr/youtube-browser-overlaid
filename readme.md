@@ -15,3 +15,5 @@ https://www.youtube.com/
 
 ### comand j = abre e fecha o devtools & ctrl j abre e fecha o devtools
 
+Exemplo
+<img width="1280" alt="example" src="https://user-images.githubusercontent.com/54044485/116261188-c6872c80-a74d-11eb-81cb-392336a50cba.png">
